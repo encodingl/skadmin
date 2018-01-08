@@ -1,0 +1,5 @@
+django==1.9.13
+sh==1.12.9
+mysql-python==1.2.5
+pytest==3.0.7
+requests==2.11.1
